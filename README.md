@@ -49,5 +49,4 @@ The objective of this project is to transform raw LA crime data into an interact
 
 ## 📄 License
 This project is intended for learning and portfolio purposes.
-Get Interactive Reporte
-https://drive.google.com/drive/folders/1uUaSvQedV3HUL3MINbHna7QjDkRjMaAx?usp=sharing
+
